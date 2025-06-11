@@ -18,6 +18,7 @@ Cargo.lock
 .*/
 Secrets.toml
 Secrets.dev.toml
+config.toml
 
 # Allow the .github folder
 !.github/
